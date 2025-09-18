@@ -1,4 +1,4 @@
-# STM32F4 based Baremetal Embedded System with DFPlayer Mini Integration
+# STM32F4 based Baremetal Embedded System Audio Processing with DFPlayer Mini Integration
 
 ## Project Overview
 This project implements an embedded system based on the STM32F4 microcontroller, integrating multiple peripherals including UART communication, ADC sampling, GPIO control, and interaction with a DFPlayer Mini module for audio playback. 
